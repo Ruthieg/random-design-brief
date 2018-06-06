@@ -1,17 +1,27 @@
 {
   "Food Truck": [
-    "Food Truck Name"
+    "Taco My Love",
+    "Bun Barn",
+    "Falafel Wagon"
   ],
   "Coffee House": [
-    "Coffee House Name"
+    "Brown Town",
+    "Caprismo",
+    "Sprocket Roasting Company"
   ],
   "Clothing Store": [
-    "Clothing Name"
+    "Expressions",
+    "Bright Star Outfitters",
+    "Night Moves"
   ],
   "Sporting Goods Store": [
-    "Sporting Goods Company"
+    "Sweat City",
+    "Griffin's Hockey Land",
+    "Bat Town"
   ],
   "Restaurant": [
-    "Restaurant Name"
+    "Fork and Fig",
+    "Han Dynasty",
+    "The Crown and Thistle"
   ]
 }
