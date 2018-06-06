@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Button from './components/Button';
-import BriefModel from './models/Brief';
-import Brief from './components/Brief';
+import Button from '../components/Button';
+import BriefModel from '../models/Brief';
+import Brief from '../components/Brief';
 
 class App extends Component {
   constructor(props) {
